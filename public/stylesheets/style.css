@@ -112,6 +112,7 @@ footer {
 
 /* sign In*/
 .form-signin {
+    background-color: #f4f4f4;
     border-style: solid;
     border-width: 2px;
     width: 100%;
